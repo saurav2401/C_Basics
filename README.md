@@ -5,6 +5,6 @@
 
 # Following are the collection of programs :-
 
-# 1) WAP to print HELLO WORLD.
-# 2) WAP to Add two numbers.
-# 3) WAP to Add two numbers in which one is of float type.
+# 1) Program to print HELLO WORLD.
+# 2) Program to Add two numbers.
+# 3) Program to Add two numbers in which one is of float type.
