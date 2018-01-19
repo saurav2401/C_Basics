@@ -5,6 +5,6 @@
 
 # Following are the collection of programs :-
 
-# [1) Program to print HELLO WORLD.](blob/master/hello.c)
+# [1) Program to print HELLO WORLD.](hello.c)
 # 2) Program to Add two numbers.
 # 3) Program to Add two numbers in which one is of float type.
