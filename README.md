@@ -6,5 +6,5 @@
 # Following are the collection of programs :-
 
 # [1) Program to print HELLO WORLD.](codes/hello.c)
-# [2) Program to Add two numbers.](/codes/add_int.c)
+# [2) Program to Add two numbers.](codes/add_int.c)
 # [3) Program to Add two numbers in which one is of float type.](codes/add_float.c)
