@@ -12,3 +12,4 @@
 # [5) Program for swaping without using 3rd variable ( By XOR operator).](codes/swaping.c)
 # [6) Program for swaping without using 3rd variable ( By addtion).](codes/swping_add.c) 
 # [7) Program for conversion of temprature from Farinheit to Celcius.](codes/farehn_to_celscius.c)
+# [8) Program for calculation of circumference and area of circle by given radius.](codes/circum_area.c)
