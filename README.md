@@ -9,5 +9,5 @@
 # [2) Program to Add two numbers.](codes/add_int.c)
 # [3) Program to Add two numbers in which one is of float type.](codes/add_float.c)
 # [4) Program for swaping using 3rd variable.](codes/swaping_3rd_var.c)
-# [5) Program for swaping without using 3rd variable.](codes/swaping.c)
+# [5) Program for swaping without using 3rd variable ( By XOR operator).](codes/swaping.c)
 # [6) Program for conversion of temprature from Farinheit to Celcius.](codes/farehn_to_celscius.c)
