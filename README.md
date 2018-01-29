@@ -30,3 +30,8 @@
 # [23) Program for checking given year is LEAP or NOT using Ternary operator.](codes/leap_year_ter.c)
 # [24) Program for Finding the sum of the digit of 3 digit number without Loop.](codes/3digit_sum.c)
 # [25) Program for finding the roots of the quadratic equation.](codes/quadratic_root.c)
+# [26) Program for checking even or odd number using if / else statement.](codes/even_odd_iff.c)
+# [27) Program for checking given year is LEAP or NOT using if / else statement.](codes/leap_year_iff.c)
+# [28) Program for finding greatest among 3 number using if / else statement.](codes/greatest_iff.c)
+# [29) Program for reverse the given 3 digit number without loop.](codes/reverse.c)
+# [30) Program for Checking the number whether the number is PALINDROM or NOT.](codes/palindrom.c)
