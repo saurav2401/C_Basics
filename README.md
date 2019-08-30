@@ -35,3 +35,4 @@
 # [28) Program for finding greatest among 3 number using if / else statement.](codes/greatest_iff.c)
 # [29) Program for reverse the given 3 digit number without loop.](codes/reverse.c)
 # [30) Program for Checking the number whether the number is PALINDROM or NOT.](codes/palindrom.c)
+# [31) Program for checking the number for armsstrong number of 3 digit without loop.](codes/armstrong_3digit.c)
