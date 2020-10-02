@@ -3,4 +3,6 @@
 void main()
 {
     printf("HELLO WORLD"); // this is keyword for printing any value , statement etc.
+    
+  getch();  
 }
